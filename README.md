@@ -17,14 +17,6 @@ Este projeto é uma aplicação web para visualizar e analisar contadores de imp
 - **Exportação e Compartilhamento de Relatórios**
 - **Suporte a Dark Mode**
 
-## Como Usar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Abra o arquivo `index.html` no navegador.
-3. Utilize a interface para importar um arquivo CSV e visualizar os dados.
-
 ## Estrutura do Projeto
 ```
 /
@@ -37,14 +29,8 @@ Este projeto é uma aplicação web para visualizar e analisar contadores de imp
 ## Importação de CSV
 O arquivo CSV deve conter colunas padronizadas com os contadores de impressão. Certifique-se de que os dados estão corretamente formatados antes da importação.
 
-## Contribuição
-Se desejar contribuir com melhorias ou correções, abra um **Pull Request** ou registre um **Issue** no repositório.
-
-## Licença
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais informações.
-
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+Desenvolvido por [Cleiton Ribeiro](https://github.com/clsribeiro).
 
 
